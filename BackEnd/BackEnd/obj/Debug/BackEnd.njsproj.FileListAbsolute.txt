@@ -1,0 +1,6 @@
+C:\Users\magshimim\source\Rafael\React-Node-App\FullStack\BackEnd\obj\Debug\BackEnd.njsproj.AssemblyReference.cache
+C:\Users\magshimim\source\Rafael\React-Node-App\FullStack\BackEnd\obj\Debug\BackEnd.njsproj.CoreCompileInputs.cache
+C:\Users\magshimim\source\Rafael\React-Node-App\FullStack\BackEnd\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\magshimim\source\Rafael\React-Node-App\BackEnd\BackEnd\obj\Debug\BackEnd.njsproj.AssemblyReference.cache
+C:\Users\magshimim\source\Rafael\React-Node-App\BackEnd\BackEnd\obj\Debug\BackEnd.njsproj.CoreCompileInputs.cache
+C:\Users\magshimim\source\Rafael\React-Node-App\BackEnd\BackEnd\bin\Microsoft.NodejsTools.WebRole.dll
